@@ -203,11 +203,3 @@ Here, some ideas for further development are collected:
 - Add CORS
 
 - ...
-
----
-
-Lukas Schöbel
-
-hello@lukasschoebel.com
-
-+49 157 52979101
