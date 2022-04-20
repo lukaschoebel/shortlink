@@ -180,7 +180,7 @@ Before updating the current domain prefix in the ShortLink settings, a slash is 
 
 ## Tests
 
-The functionality of each API endpoint is thoroughly tested. The automated tests can be performed by executing `pytest` within the test folder:
+The functionality of each API endpoint is thoroughly tested. The automated tests can be performed by executing `pytest` within the `test/` folder:
 
 ```bash
 cd test && pytest
@@ -201,5 +201,7 @@ Here, some ideas for further development are collected:
 - Add API Authentication to differentiate between users
 
 - Add CORS
+
+- Add demo frontend to test API and mock client interaction
 
 - ...
